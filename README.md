@@ -2,6 +2,8 @@
 
 Denoを試してみる
 
+https://deno.land/manual@v1.16.4/getting_started/first_steps
+
 ## 1
 
 https://blog1.mammb.com/entry/2020/06/08/090000
